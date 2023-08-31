@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Raju Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate individual from India</h3>
+
  
 
 
